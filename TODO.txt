@@ -1,0 +1,5 @@
+Start a repository 
+Add new files
+Do edits
+Send to github
+Pull from remote source
